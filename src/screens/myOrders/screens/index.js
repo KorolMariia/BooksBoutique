@@ -1,12 +1,12 @@
 import { Text, View } from 'react-native';
 import styles from './styles';
 
-const HomeScreen = () => {
+const MyOrders = () => {
   return (
     <View style={styles.container}>
-      <Text>HomeScreen</Text>
+      <Text>MyOrders</Text>
     </View>
   );
 }
 
-export default HomeScreen;
+export default MyOrders;
